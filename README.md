@@ -208,4 +208,8 @@ Projeto desenvolvido como exercício prático de **Engenharia de Dados aplicada 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauroslucios/analise-de-credito-agropf)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauroslucios/)
-<img src="https://github.com/mauroslucios/analise-de-credito-agropf/issues/2#issue-3811218291"/>
+
+<div align="center">
+![MinIO Screenshot](https://github.com/mauroslucios/analise-de-credito-agropf/issues/2#issue-3811218291")
+</div>
+
