@@ -207,11 +207,6 @@ Projeto desenvolvido como exercício prático de **Engenharia de Dados aplicada 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauroslucios/analise-de-credito-agropf)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauroslucios/)
-
-<div align="center">
-![MinIO Screenshot](https://private-user-images.githubusercontent.com/671694/535380340-6dc3bd19-dc30-41cf-bdd0-21d1422835c2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgzNTgyODIsIm5iZiI6MTc2ODM1Nzk4MiwicGF0aCI6Ii82NzE2OTQvNTM1MzgwMzQwLTZkYzNiZDE5LWRjMzAtNDFjZi1iZGQwLTIxZDE0MjI4MzVjMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNFQwMjMzMDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MDQ3ZjRjNDk3NzM4MzVjNmQzNmQ2Zjg3MzIzZjNhNTBlN2QzZmQ5MDRjZDhhYWU3ODg3YzNjYTZiYWQ5NjFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BIw-_960yDi-lCZG3JD0w4f6LdNmPCiIXUrCk5xmBno)
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-lucio-pereira/)
 
 
